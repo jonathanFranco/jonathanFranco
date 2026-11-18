@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-end Sênior** em Fortaleza, CE. Há 6 anos construo aplicações web e mobile com **Vue/Nuxt, React/Next, Angular e Flutter**, com foco em design systems, performance (Core Web Vitals) e acessibilidade.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://jonfrancodev.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jonfrancodev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-franco-dev)
 
 ---
@@ -35,10 +35,3 @@
 - [Suporte Grupo Multi](https://suporte.grupomulti.com.br) · [Governo Grupo Multi](https://governo.grupomulti.com.br)
 - [Fortal Connect](https://fortalconnect.com.br)
 - [Bora Assistir](https://boraassistir.vercel.app)
-
-### 📊 Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonathanFranco&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanFranco&layout=compact&theme=transparent&hide_border=true" />
-</p>
